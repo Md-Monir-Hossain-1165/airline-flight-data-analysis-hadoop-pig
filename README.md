@@ -4,10 +4,8 @@
 
 - `MapReduce/src/` - Java MapReduce source code
 - `MapReduce/output/` - MapReduce results
-- `MapReduce/screenshots/` - Administrator Command Prompt evidence
 - `PigAnalysis/scripts/` - Pig scripts
 - `PigAnalysis/output/` - Pig results
-- `PigAnalysis/screenshots/` - Administrator Command Prompt evidence
 - `docs/` - final report
 - `data/` - Kaggle CSV files, excluded from Git
 
