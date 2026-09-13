@@ -8,3 +8,5 @@ PigAnalysis/output/**/_SUCCESS
 PigAnalysis/output/**/*.crc
 *.log
 __pycache__/
+docs/~$*.docx
+docs/~WRL*.tmp
