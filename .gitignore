@@ -1,0 +1,10 @@
+MapReduce/build/
+data/*.csv
+MapReduce/screenshots/
+PigAnalysis/screenshots/
+MapReduce/output/**/_SUCCESS
+MapReduce/output/**/*.crc
+PigAnalysis/output/**/_SUCCESS
+PigAnalysis/output/**/*.crc
+*.log
+__pycache__/
