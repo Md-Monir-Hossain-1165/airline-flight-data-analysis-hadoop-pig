@@ -1,7 +1,7 @@
 # Airline Flight Data Analysis
 
 ## Project layout
-
+- `MapReduce/build/` - Java MapReduce all classes and jar file
 - `MapReduce/src/` - Java MapReduce source code
 - `MapReduce/output/` - MapReduce results
 - `PigAnalysis/scripts/` - Pig scripts
