@@ -8,6 +8,7 @@
 - `PigAnalysis/output/` - Pig results
 - `docs/` - final report
 - `data/` - Kaggle CSV files, excluded from Git
+- `Report` - Pdf format
 
 ## Run from Administrator Command Prompt
 
